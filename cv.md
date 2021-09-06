@@ -47,7 +47,7 @@ alert('Hello world!')
 - JavaScript/Front-end. Stage 1 by RS School (Fall 2021)
 
 ---
-### English level & practice description I had:
+### Languages:
 
 - English (fluent, B2+, upper-intermediate)
 - Russian (native)
