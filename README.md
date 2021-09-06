@@ -1,2 +1,1 @@
-# rsschool-cv
-1st task from RS School - to make a CV
+https://jakovlev-fedor.github.io/rsschool-cv/cv
